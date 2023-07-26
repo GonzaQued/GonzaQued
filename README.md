@@ -9,7 +9,7 @@
 <th style="padding: 20px;">LANGUAGE</th>
 <th>LEVEL</th>
 <th style="padding: 20px;">LANGUAGE</th>
-<th style="witdh:150px">LEVEL</th>
+<th>LEVEL</th>
 </tr>
 
 <tr align="center">
