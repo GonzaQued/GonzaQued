@@ -4,7 +4,7 @@
 ## My Skills:
 
 <div>
-<table style="width:"100%">
+<table style="width:100%">
 
 <tr>
 <th style="padding: 20px;">LANGUAJE</th>
