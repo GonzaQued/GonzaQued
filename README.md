@@ -1,5 +1,7 @@
 ### Hello! 😊 This is my GitHub profile where you can see all my programming projects ♾️ Increasing knowledge👾
 
+![gonzalo-quedena-banner](https://raw.githubusercontent.com/GonzaQued/GonzaQued/main/src/banner-github-quedena.png)
+
 <!--
 **GonzaQued/GonzaQued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
