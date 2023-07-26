@@ -3,7 +3,6 @@
 
 ## My Skills:
 
-<div>
 <table style="width:100%">
 
 <tr>
@@ -58,4 +57,3 @@
 </tr>
 
 </table>
-</div>
