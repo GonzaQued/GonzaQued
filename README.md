@@ -3,10 +3,74 @@
 
 ## My Skills:
 
-| LANGUAGE   |  LEVEL  |
-|:----------:|:-------:|
-|<img src="https://shorturl.at/mzEKW" alt="cpp-lang" width="100"/> |BASIC - INTERMEDIATE |
-|<img src="https://shorturl.at/CIVX6" alt="py-lang" width="80"/>   |BASIC|
-|<img src="https://shorturl.at/irsEX" alt="cs-lang" width="150"/>  |BASIC|
-|<img src="https://shorturl.at/mIJMQ" alt="html-mk" width="105"/>  |BASIC|
-|<img src="https://shorturl.at/uVXYZ" alt="sql-serv" width="105"/> |BASIC|
+    <table width="100%" border="1px">
+      <tr>
+        <th style="padding: 20px;">LANGUAJE</th>
+        <th>LEVEL</th>
+      </tr>
+
+      <tr align="center">
+        <td style="padding: 10px;">
+          <img src="https://shorturl.at/mzEKW" alt="cpp-log" width="100"/>
+        </td>
+        <td>
+          <progress value="50" max="100"></progress>
+        </td>
+      </tr>
+
+      <tr align="center">
+        <td style="padding: 5px;">
+          <img src="https://shorturl.at/CIVX6" alt="py-log" width="90" style="margin-top: 10px;"/>
+        </td>
+        <td>
+          <progress value="30" max="100"></progress>
+        </td>
+      </tr>
+
+      <tr align="center">
+        <td style="padding: 5px;">
+          <img src="https://shorturl.at/irsEX" alt="cs-log" width="190" style="margin-top: 10px;"/>
+        </td>
+        <td>
+          <progress value="40" max="100"></progress>
+        </td>
+      </tr>
+
+      <tr align="center">
+        <td style="padding: 5px;">
+          <img src="https://shorturl.at/mIJMQ" alt="html-log" width="130" style="margin-top: 10px;"/>
+        </td>
+        <td>
+          <progress value="90" max="100"></progress>
+        </td>
+      </tr>
+
+      <tr align="center">
+        <td style="padding: 5px;">
+          <img src="https://shorturl.at/agrHU" alt="css-lang" width="90" style="margin-top: 10px;"/>
+        </td>
+        <td>
+          <progress value="30" max="100"></progress>
+        </td>
+      </tr>
+
+      <tr align="center">
+        <td style="padding: 5px;">
+          <img src="https://shorturl.at/dhpR2" alt="js-log" width="220" style="margin-top: 10px;"/>
+        </td>
+        <td>
+          <progress value="20" max="100"></progress>
+        </td>
+      </tr>
+
+      <tr align="center">
+        <td style="padding: 5px;">
+          <img src="https://shorturl.at/uVXYZ" alt="sql-log" width="130" style="margin-top: 10px;"/>
+        </td>
+        <td>
+          <progress value="60" max="100"></progress>
+        </td>
+      </tr>
+
+
+    </table>
