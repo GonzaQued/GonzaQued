@@ -3,7 +3,8 @@
 
 ## My Skills:
 
-  <table width="100%" border="1px">
+<div>
+<table width="100%">
     <tr>
       <th style="padding: 20px;">LANGUAJE</th>
       <th>LEVEL</th>
@@ -13,7 +14,7 @@
         <img src="https://shorturl.at/mzEKW" alt="cpp-log"width="100"/>
       </td>
       <td>
-        ***50%***
+      ***50%***
       </td>
     </tr>
     <tr align="center">
@@ -64,4 +65,5 @@
         ***60%***
       </td>
     </tr>
-  </table>
+</table>
+</div>
