@@ -4,7 +4,7 @@
 
 | LANGUAGE   |  LEVEL  |
 |:----------:|:-------:|
-|<img src="https://shorturl.at/jM568" alt="cpp-lang" width="100"/> |BASIC - INTERMEDIATE |
+|<img src="https://shorturl.at/mzEKW" alt="cpp-lang" width="100"/> |BASIC - INTERMEDIATE |
 |<img src="https://shorturl.at/CIVX6" alt="py-lang" width="80"/>   |BASIC|
 |<img src="https://shorturl.at/irsEX" alt="cs-lang" width="150"/>  |BASIC|
 |<img src="https://shorturl.at/mIJMQ" alt="html-mk" width="105"/>  |BASIC|
