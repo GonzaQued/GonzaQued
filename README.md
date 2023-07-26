@@ -1,18 +1,12 @@
-### Hello! 😊 This is my GitHub profile where you can see all my programming projects ♾️ Increasing knowledge👾
-
+##  Hello! 😊 This is my GitHub profile where you can see my programming projects ♾️ 
 ![gonzalo-quedena-banner](https://raw.githubusercontent.com/GonzaQued/GonzaQued/main/src/banner-github-quedena.png)
 
-<!--
-**GonzaQued/GonzaQued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|  LANGUAGE  |  LEVEL  |
+|:----------:|:-------:|
+|<img src="https://shorturl.at/jM568" alt="cpp-lang" width="100"/> |BASIC - INTERMEDIATE |
+|<img src="https://shorturl.at/CIVX6" alt="py-lang" width="80"/>   |BASIC|
+|<img src="https://shorturl.at/irsEX" alt="py-lang" width="150"/>  |BASIC|
+|<img src="https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png" alt="py-lang" width="105"/>|BASIC|
+|<img src="https://shorturl.at/uVXYZ" alt="py-lang" width="105"/>  |BASIC|
