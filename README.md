@@ -13,7 +13,7 @@
         <img src="https://shorturl.at/mzEKW" alt="cpp-log"width="100"/>
       </td>
       <td>
-        <progress value="50" max="100"></progress>
+        ***50%***
       </td>
     </tr>
     <tr align="center">
@@ -21,7 +21,7 @@
         <img src="https://shorturl.at/CIVX6" alt="py-log"width="90" style="margin-top: 10px;"/>
       </td>
       <td>
-        <progress value="30" max="100"></progress>
+        ***30%***
       </td>
     </tr>
     <tr align="center">
@@ -29,7 +29,7 @@
         <img src="https://shorturl.at/irsEX" alt="cs-log"width="190" style="margin-top: 10px;"/>
       </td>
       <td>
-        <progress value="40" max="100"></progress>
+        ***40%***
       </td>
     </tr>
     <tr align="center">
@@ -37,7 +37,7 @@
         <img src="https://shorturl.at/mIJMQ" alt="html-log"width="130" style="margin-top: 10px;"/>
       </td>
       <td>
-        <progress value="90" max="100"></progress>
+        ***90%***
       </td>
     </tr>
     <tr align="center">
@@ -45,7 +45,7 @@
         <img src="https://shorturl.at/agrHU" alt="css-lang"width="90" style="margin-top: 10px;"/>
       </td>
       <td>
-        <progress value="30" max="100"></progress>
+        ***30%***
       </td>
     </tr>
     <tr align="center">
@@ -53,7 +53,7 @@
         <img src="https://shorturl.at/dhpR2" alt="js-log"width="220" style="margin-top: 10px;"/>
       </td>
       <td>
-        <progress value="20" max="100"></progress>
+        ***20%***
       </td>
     </tr>
     <tr align="center">
@@ -61,7 +61,7 @@
         <img src="https://shorturl.at/uVXYZ" alt="sql-log"width="130" style="margin-top: 10px;"/>
       </td>
       <td>
-        <progress value="60" max="100"></progress>
+        ***60%***
       </td>
     </tr>
   </table>
